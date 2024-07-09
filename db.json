@@ -8,14 +8,8 @@
     },
     {
       "id": "759fa75c-a8c9-4cf2-ade9-ca12cc7f5abb",
-      "title": "Python 3",
+      "title": "Python",
       "status": "job",
-      "date": "28.04.2024"
-    },
-    {
-      "id": "38a08eab-15b3-455d-8acf-02c106bbfa17",
-      "title": "React",
-      "status": "daily",
       "date": "28.04.2024"
     },
     {
@@ -23,6 +17,12 @@
       "title": "SQL",
       "status": "job",
       "date": "28.04.2024"
+    },
+    {
+      "id": "fc888061-f98d-4552-a8ec-baa63e01e868",
+      "title": "React",
+      "status": "daily",
+      "date": "10.07.2024"
     }
   ]
 }
