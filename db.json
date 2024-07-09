@@ -1,33 +1,27 @@
 {
   "todos": [
     {
-      "id": "80202fcf-8517-4489-bb76-919ba2a2baae",
-      "title": "PYTHON",
+      "id": "eed3b8f0-43fe-4a99-ac49-7adafda48bdf",
+      "title": "JavaScript",
       "status": "important",
       "date": "28.04.2024"
     },
     {
-      "id": "b0903a2f-41c8-41cd-b6d7-67cebf96672a",
-      "title": "FRANSA",
+      "id": "759fa75c-a8c9-4cf2-ade9-ca12cc7f5abb",
+      "title": "Python 3",
       "status": "job",
       "date": "28.04.2024"
     },
     {
-      "id": "4b5a9d49-1811-4803-a54b-75113ff161ce",
-      "title": "ALMANYA",
-      "status": "job",
-      "date": "28.04.2024"
-    },
-    {
-      "id": "0efb862e-215e-44ad-ace7-be8034e1feaf",
-      "title": "Amerika",
-      "status": "important",
-      "date": "28.04.2024"
-    },
-    {
-      "id": "7865fafd-ef9b-4839-8771-f79304e48796",
-      "title": "Sevgili",
+      "id": "38a08eab-15b3-455d-8acf-02c106bbfa17",
+      "title": "React",
       "status": "daily",
+      "date": "28.04.2024"
+    },
+    {
+      "id": "d69132b2-7984-445d-b02b-d9dfae090c0c",
+      "title": "SQL",
+      "status": "job",
       "date": "28.04.2024"
     }
   ]
